@@ -1,0 +1,8 @@
+https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
+dataset temporairement utilisé pour le prototypage car + simple, mais problèmes :
+
+image 2D alors que neuroimagerie est en 3D,
+peu sourcé, 
+image recolté apparement avec google img,
+présence de quelques doublons
