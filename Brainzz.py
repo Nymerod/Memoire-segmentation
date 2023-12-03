@@ -1,4 +1,4 @@
-#bourahla youssef L3 MIASHS Mémoire à rendre fin de l'année scolaire
+#L3 MIASHS Mémoire 
 
 import numpy as np
 import pandas as pd
