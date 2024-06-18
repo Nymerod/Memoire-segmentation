@@ -349,9 +349,9 @@ predictions : [[0.2839437  0.7160563 ]
  [0.26903558 0.7309645 ]]
 
 Prediction alterne entre ~27 et ~73 avec quelques ~0.5
+
 raisons possible:
 
-mauvais import des images/labels qui fausse le tout and|or
-les predictions se ressemblement simplement car les images sont similaires...(voir d'autres output de model de dl) and|or
+les predictions se ressemblement car les images sont similaires...(voir d'autres output de model de dl) and|or
 les variables need tuning peut-être que le weight_loss se bloque... and|or
 autres raisons pour l'instant inconnu
